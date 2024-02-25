@@ -6,3 +6,8 @@ by the Free Software Foundation (A list of which can be found at
 https://www.gnu.org/licenses/license-list.html)
 
 3. The Quetzal Community Trademark License™
+
+This file is available under the.quetzal.community/trademark-license
+this means you can do what you like with this file as long as you 
+share back any modifications and respect the community trademarks, 
+see the.quetzal.community/notices
